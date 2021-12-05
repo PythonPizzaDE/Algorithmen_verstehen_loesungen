@@ -1,1 +1,1 @@
-# Algorithmen_verstehen_loesungen
+# Algorithmen verstehen challenge Lösungen
